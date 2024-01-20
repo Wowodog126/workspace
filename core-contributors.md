@@ -22,4 +22,4 @@ Core Contributors 核心贡献者
 | 火星 | | | Yes | - |
 | 严光红 | | | Yes | - |
 | yj | @AqoursSunshine | | Not yet | Pending |
-
+| LouisluAwesome | @Wowodog126 | | Pending | Pendding |
